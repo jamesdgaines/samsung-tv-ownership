@@ -1,0 +1,21 @@
+# .NET build artifacts
+rootproof/bin/
+rootproof/obj/
+**/bin/
+**/obj/
+
+# Local signing keys & staged archives (never commit your private key)
+*.pem
+*.signature
+*.tar.gz
+stage/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / OS
+.DS_Store
+*.swp
+.idea/
+.vscode/
