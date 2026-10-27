@@ -1,7 +1,7 @@
 # Samsung TV Ownership Toolkit
 
-A toolkit for Samsung Tizen TV owners. It turns off the background services you
-don't want — ads, analytics, telemetry, and voice assistants.
+A toolkit for Samsung The Frame TV owners (Tizen). It turns off the background
+services you don't want — ads, analytics, telemetry, and voice assistants.
 
 It only works on a TV you own, on your own network. Nothing gets deleted, and
 every change can be undone.
