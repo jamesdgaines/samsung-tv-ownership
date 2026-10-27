@@ -1,15 +1,10 @@
 # Samsung TV Ownership Toolkit
 
-> **Your TV. Your hardware. Your rules.**
+A toolkit for Samsung Tizen TV owners. It turns off the background services you
+don't want — ads, analytics, telemetry, and voice assistants.
 
-A clean, well-documented toolkit for Samsung Tizen TV owners who want to take
-full administrative control of the device they already own — to understand
-what's running on it, and to turn down the always-on services they don't want
-(advertising, telemetry, voice assistants, and idle background daemons).
-
-This project does **not** modify DRM, does **not** enable anything illegal, and
-does **not** touch the display panel. It operates entirely on a TV you own, over
-your own local network, using Samsung's own developer platform and SDK tools.
+It only works on a TV you own, on your own network. Nothing gets deleted, and
+every change can be undone.
 
 ---
 
